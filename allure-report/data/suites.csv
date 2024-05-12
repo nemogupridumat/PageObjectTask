@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun May 12 02:25:03 ALMT 2024","Sun May 12 02:25:14 ALMT 2024","10564","","test.CalculatorTest","","test.CalculatorTest","checkResultsTest","checkResultsTest()",""
+"passed","Sun May 12 02:24:33 ALMT 2024","Sun May 12 02:24:47 ALMT 2024","14314","","test.CalculatorTest","","test.CalculatorTest","googleCloudPricingCalculatorTest","googleCloudPricingCalculatorTest()",""
+"broken","Sun May 12 02:24:47 ALMT 2024","Sun May 12 02:25:03 ALMT 2024","16265","","test.CalculatorTest","","test.CalculatorTest","yopMailTest","yopMailTest()",""
+"broken","Sun May 12 02:24:18 ALMT 2024","Sun May 12 02:24:33 ALMT 2024","14754","","test.CalculatorTest","","test.CalculatorTest","performTheSearchTest","performTheSearchTest()",""
